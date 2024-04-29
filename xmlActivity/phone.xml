@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phones>
+    <phone id="1">
+        <OS>IOS</OS>
+        <model>Iphone 12</model>
+        <year>2018</year>
+    </phone>
+    <phone id="2">
+        <OS>Android</OS>
+        <model>Galaxy X2</model>
+        <year>2014</year>
+    </phone>
+
+</phones>
