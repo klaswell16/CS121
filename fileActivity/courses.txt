@@ -1,0 +1,3 @@
+course credits score
+eng121 3 99
+cs222 67 78
